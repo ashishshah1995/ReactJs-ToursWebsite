@@ -1,6 +1,6 @@
 # Tours Website developed using React
 
-Website to displays multiple recommendations of tours for tourist. 
+Website to display multiple recommendations of tours for tourist. 
 
 ## Live Application Link
 
